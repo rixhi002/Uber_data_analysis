@@ -25,7 +25,5 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 
 
 
-## Data Model
-<img src="data_model.jpeg">
 
 
